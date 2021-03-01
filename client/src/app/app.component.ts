@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 
 interface User {
   id: number;
-  username: string;
+  userName: string;
 }
 @Component({
   selector: 'app-root',
